@@ -25,3 +25,7 @@ Binary:
 - [ ] Efficientnet: b0, b1, b2, y b3 <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary EFFICIENTNET sweep.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+- [ ] Vision transformer: b16, l16, h14 <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary Visiontransformers sweep.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
