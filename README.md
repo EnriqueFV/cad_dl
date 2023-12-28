@@ -17,7 +17,7 @@ Different notebooks are organized to launch several sweeps of hyperparameters on
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
--[ ] Efficientnet: b0, b1, b2, y b3 <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary EFFICIENTNET sweep.ipynb" target="_parent">
+- [ ] Efficientnet: b0, b1, b2, y b3 <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary EFFICIENTNET sweep.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
