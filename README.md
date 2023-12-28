@@ -1,4 +1,7 @@
-Different notebooks are organized to launch several sweeps of hyperparameters on the types of neural networks available through pytorch.
+Different notebooks are organized to launch several sweeps of hyperparameter sets on the top 5 most used types of neural networks in SLC - skin lesion classification ([A survey, review, and future trends of skin lesion segmentation and classification](https://www.sciencedirect.com/science/article/pii/S0010482523000896)) available through pytorch.
+
+Binary:
+
 - [x] Resnet: 50, 101, 152 layers (Enrico)
 
 - [x] Densenet: 121, 169, 169, 201 layers (Enrique)  <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary DENSENET sweep.ipynb" target="_parent">
@@ -20,4 +23,3 @@ Different notebooks are organized to launch several sweeps of hyperparameters on
 - [ ] Efficientnet: b0, b1, b2, y b3 <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary EFFICIENTNET sweep.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
