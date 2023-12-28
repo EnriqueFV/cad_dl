@@ -29,3 +29,7 @@ Binary:
 - [ ] Vision transformer: b16, l16, h14 <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary Visiontransformers sweep.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+- [ ] Swin tranformcers: small, small v2  <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary swintransformers sweep.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
