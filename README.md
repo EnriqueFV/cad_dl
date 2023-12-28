@@ -12,5 +12,8 @@ Different notebooks are organized to launch several sweeps of hyperparameters on
 - [ ] VGG: 11, 13, 16, 19 layers <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary VGG sweep.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-- [ ] 
+
+- [ ] Inception: unique V3 model <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary Inceptionv3 sweep.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
