@@ -2,7 +2,9 @@ Different notebooks are organized to launch several sweeps of hyperparameter set
 
 Binary:
 
-- [x] Resnet: 50, 101, 152 layers (Enrico)  <a href=\"https://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary resnet sweep.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+- [x] Resnet: 50, 101, 152 layers (Enrico)  <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary resnet sweep.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 - [x] Densenet: 121, 169, 169, 201 layers (Enrique)  <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary DENSENET sweep.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
