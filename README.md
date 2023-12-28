@@ -10,7 +10,7 @@ Binary:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- [x] VGG with batch normalization: 11, 13, 16, 19 layers  <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary VGG batch normalization sweep.ipynb" target="_parent">
+- [ ] VGG with batch normalization: 11, 13, 16, 19 layers  <a href="http://colab.research.google.com/github/EnriqueFV/cad_dl/blob/main/Binary VGG batch normalization sweep.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
